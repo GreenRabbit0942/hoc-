@@ -1,15 +1,3 @@
 # hoc-
 Study git
-<!-- # ⭕ hoc -->
-
-A standard study.
-
-⭕ ❕ ⭕ ❕ ❌
-
-➖ ➕ ➖ ➕ ➖
-
-⭕ ❕ ⁣❌ ❕ ⭕
-
-➖ ➕ ➖ ➕ ➖
-
-❌ ❕ ❌ ❕ ⭕
+"hello world"
